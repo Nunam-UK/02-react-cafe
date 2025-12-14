@@ -1,6 +1,6 @@
 import React from 'react';
 import styles from './VoteStats.module.css';
-import { Votes } from '../types/votes'; 
+import  type { Votes } from '../types/votes'; 
 
 
 

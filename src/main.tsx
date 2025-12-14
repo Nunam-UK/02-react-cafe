@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App'; 
-import './index.css'; // Якщо у вас є глобальні стилі
+import App from './components/App/App'; 
+import './index.css'; 
 
 const rootElement = document.getElementById('root');
 
